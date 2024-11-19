@@ -2,10 +2,10 @@
 title: "Stochastic Processes"
 ---
 
-Book:(https://thiyangt.github.io/tst.stochasticprocesses/)[https://thiyangt.github.io/tst.stochasticprocesses/]
+Book:[https://thiyangt.github.io/tst.stochasticprocesses/](https://thiyangt.github.io/tst.stochasticprocesses/)
 
 ## Lectures
 
 ### Lecture 1: 19 Nov 2024
 
-\[Slides\](<https://thiyangt.github.io/stochasticprocessesed2/#1>)
+[Slides](https://thiyangt.github.io/stochasticprocessesed2/#1)
